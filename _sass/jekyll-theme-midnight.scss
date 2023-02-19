@@ -11,7 +11,7 @@ body {
   background: #252525;
   background-attachment: fixed !important;
   background: rgb(0,11,34);
-  background: radial-gradient(circle, rgba(0,11,34,1) 0%, rgba(0,15,38,1) 35%, rgba(0,18,42,1) 100%); url('/assets/images/background.png')
+  background: radial-gradient(circle, rgba(0,11,34,1) 0%, rgba(0,15,38,1) 35%, rgba(0,18,42,1) 100%); 
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -162,8 +162,8 @@ dt {
   height: 60px;
   width: 100%;
   position: fixed;
-  background: rgb(0,0,71);
-  background: linear-gradient(0deg, rgba(0,0,71,1) 25%, rgba(0,36,96,1) 100%); 
+  background: rgb(0,14,42);
+  background: linear-gradient(0deg, rgba(0,14,42,1) 0%, rgba(0,20,50,1) 35%, rgba(0,27,62,1) 100%); 
   border-bottom: 4px solid #061a2c;
   box-shadow: 0px 1px 3px rgba(0,0,0,.25);
 
